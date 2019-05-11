@@ -30,13 +30,21 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/web.config">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+            <state relative-caret-position="323">
+              <caret line="19" column="78" selection-start-line="19" selection-start-column="78" selection-end-line="19" selection-end-column="78" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Lyle" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -203,38 +211,7 @@
           <expand>
             <path>
               <item name="GinnysGatherings" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gg" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GinnysGatherings" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gg" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GinnysGatherings" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gg" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GinnysGatherings" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gg" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GinnysGatherings" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gg" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-              <item name="frontend" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GinnysGatherings" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gg" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-              <item name="frontend" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="GinnysGatherings" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -307,24 +284,39 @@
       <updated>1557589266787</updated>
       <workItem from="1557589268899" duration="342000" />
       <workItem from="1557589621974" duration="727000" />
+      <workItem from="1557590516934" duration="256000" />
     </task>
+    <task id="LOCAL-00001" summary="Test commit.">
+      <created>1557590635667</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1557590635667</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Removed test.html">
+      <created>1557590757802</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1557590757802</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1069000" />
+    <option name="totallyTimeSpent" value="1325000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" sideWeight="0.50163937" side_tool="true" weight="0.079557426" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49836066" visible="true" weight="0.17017913" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.49836066" visible="true" weight="0.17017913" />
       <window_info id="Structure" order="2" sideWeight="0.50073636" side_tool="true" weight="0.13119073" />
       <window_info id="Database" order="3" weight="0.13909379" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="1" type="SLIDING" weight="0.32967034" />
-      <window_info anchor="bottom" id="Version Control" order="2" />
-      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.50052685" side_tool="true" weight="0.24487594" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="2" sideWeight="0.49947312" visible="true" weight="0.32901832" />
+      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.50052685" side_tool="true" visible="true" weight="0.32901832" />
       <window_info active="true" anchor="bottom" id="Database Console" order="4" sideWeight="0.49947312" visible="true" weight="0.32967034" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" sideWeight="0.49947312" weight="0.32901832" />
@@ -334,7 +326,7 @@
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="bottom" id="npm" order="11" sideWeight="0.49841937" weight="0.13160734" />
       <window_info anchor="bottom" id="TODO" order="12" weight="0.22967033" />
-      <window_info anchor="bottom" x="574" y="394" width="916" height="216" id="Terminal" order="13" sideWeight="0.50105375" side_tool="true" visible="true" weight="0.30636463" />
+      <window_info anchor="bottom" x="574" y="394" width="916" height="216" id="Terminal" order="13" sideWeight="0.50052685" side_tool="true" weight="0.32901832" />
       <window_info anchor="bottom" id="PHP-CGI Server" order="14" sideWeight="0.49789253" weight="0.32967034" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -343,6 +335,37 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Test commit." />
+    <MESSAGE value="Removed test.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed test.html" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/_ide_helper.php">
@@ -360,13 +383,16 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/js/backend.js.map">
+      <provider selected="true" editor-type-id="text-editor" />
       <provider editor-type-id="sourcemapFileViewerProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/public/web.config">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+        <state relative-caret-position="323">
+          <caret line="19" column="78" selection-start-line="19" selection-start-column="78" selection-end-line="19" selection-end-column="78" />
         </state>
       </provider>
     </entry>
